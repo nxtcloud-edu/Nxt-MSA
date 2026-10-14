@@ -21,7 +21,7 @@ systemctl enable --now docker
 usermod -aG docker ec2-user
 
 echo "=== [2/4] 소스 코드 다운로드 ==="
-git clone https://github.com/glen15/Nxt-MSA.git /opt/nxt-msa
+git clone https://github.com/nxtcloud-edu/Nxt-MSA.git /opt/nxt-msa
 
 echo "=== [3/4] 환경변수 설정 ==="
 cat > /opt/nxt-msa/factories/.env << 'ENVEOF'

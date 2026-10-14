@@ -9,7 +9,7 @@ export default defineConfig({
 			customCss: ['./src/styles/custom.css'],
 			defaultLocale: 'root',
 			locales: { root: { label: '한국어', lang: 'ko' } },
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/glen15/Nxt-MSA' }],
+			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/nxtcloud-edu/Nxt-MSA' }],
 			sidebar: [
 				{
 					label: '시작하기',

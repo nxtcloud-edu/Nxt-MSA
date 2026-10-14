@@ -6,7 +6,7 @@ DynamoDB를 연결하여 차량 주문 시스템을 완성한다.
 
 ## 사전 준비
 - Cloud9 IDE 환경 (m5.large)
-- 소스 코드 클론 완료: `git clone https://github.com/glen15/Nxt-MSA.git`
+- 소스 코드 클론 완료: `git clone https://github.com/nxtcloud-edu/Nxt-MSA.git`
 - 강사가 안내한 본인 유저 ID (예: `kmucd1-99`)
 
 ### Cloud9 자격증명 설정
